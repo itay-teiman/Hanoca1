@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner2">
+        <item>יום ראשון</item>
+        <item>יום שני</item>
+        <item>יום שלישי</item>
+        <item>יום רביעי</item>
+        <item>יום חמישי</item>
+        <item>יום שישי</item>
+        <item>יום שביעי</item>
+        <item>יום שמיני</item>
+    </string-array>
+
+
+
+</resources>
